@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option go_package = "qfzack/grpc-demo/rpc";
+
+package rpc_demo;
+
+service MyRpc {
+    rpc SayHello (Request) returns (Response) {}
+}
+
+message Request {
+    string name = 1;
+}
+
+message Response {
+    string message = 1;
+}
