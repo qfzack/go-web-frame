@@ -1,7 +1,7 @@
 package router
 
 import (
-	"qfzack/grpc-demo/internal/server/handler"
+	"qfzack/go-web-starter/internal/server/handler"
 
 	"github.com/gin-gonic/gin"
 )

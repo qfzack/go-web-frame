@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 	"log"
-	pb "qfzack/grpc-demo/api/proto/server"
+	pb "qfzack/go-web-starter/api/proto/server"
 )
 
 // custom Server struct inplements the MyRpcServer interface

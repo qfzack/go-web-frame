@@ -1,9 +1,9 @@
 package container
 
 import (
-	"qfzack/grpc-demo/internal/server/handler"
-	"qfzack/grpc-demo/internal/server/repository"
-	"qfzack/grpc-demo/internal/server/service"
+	"qfzack/go-web-starter/internal/server/handler"
+	"qfzack/go-web-starter/internal/server/repository"
+	"qfzack/go-web-starter/internal/server/service"
 )
 
 type Container struct {

@@ -1,6 +1,6 @@
 package repository
 
-import "qfzack/grpc-demo/internal/server/model"
+import "qfzack/go-web-starter/internal/server/model"
 
 // define repository funcs through interface
 type UserRepository interface {

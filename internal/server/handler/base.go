@@ -3,7 +3,7 @@ package handler
 import (
 	"errors"
 	"net/http"
-	"qfzack/grpc-demo/internal/server/model"
+	"qfzack/go-web-starter/internal/server/model"
 
 	"github.com/gin-gonic/gin"
 )

@@ -1,17 +1,4 @@
-## Structure
-
-```bash
-./demo
-├── README.md
-├── client  # client service
-│   └── main.go
-├── rpc  # gRPC module
-│   ├── rpc.pb.go
-│   ├── rpc.proto  # defined proto file
-│   └── rpc_grpc.pb.go
-└── server  # server service
-    └── main.go
-```
+# gRPC
 
 ## Prerequisites
 

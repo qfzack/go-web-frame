@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-option go_package = "qfzack/grpc-demo/rpc";
+option go_package = "qfzack/go-web-starter/rpc";
 
 package rpc_demo;
 

@@ -2,8 +2,8 @@ package handler
 
 import (
 	"net/http"
-	"qfzack/grpc-demo/internal/server/model"
-	"qfzack/grpc-demo/internal/server/service"
+	"qfzack/go-web-starter/internal/server/model"
+	"qfzack/go-web-starter/internal/server/service"
 
 	"github.com/gin-gonic/gin"
 )

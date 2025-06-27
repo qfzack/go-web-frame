@@ -13,10 +13,10 @@ import (
 	"syscall"
 	"time"
 
-	pb "qfzack/grpc-demo/api/proto/server"
-	"qfzack/grpc-demo/internal/server/config"
-	"qfzack/grpc-demo/internal/server/container"
-	"qfzack/grpc-demo/internal/server/router"
+	pb "qfzack/go-web-starter/api/proto/server"
+	"qfzack/go-web-starter/internal/server/config"
+	"qfzack/go-web-starter/internal/server/container"
+	"qfzack/go-web-starter/internal/server/router"
 
 	"github.com/gin-gonic/gin"
 	"google.golang.org/grpc"

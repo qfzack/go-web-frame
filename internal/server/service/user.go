@@ -1,8 +1,8 @@
 package service
 
 import (
-	"qfzack/grpc-demo/internal/server/model"
-	"qfzack/grpc-demo/internal/server/repository"
+	"qfzack/go-web-starter/internal/server/model"
+	"qfzack/go-web-starter/internal/server/repository"
 )
 
 // define service funcs through interface
